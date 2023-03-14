@@ -16,6 +16,6 @@ public class test_sneaker {
         String suela = scanner.nextLine();
         System.out.println("Ingresa la talla");
         Sneaker_1.setTalla();
-        int talla = scanner.nextInt();
+        double talla = scanner.nextDouble();
     }
 }
